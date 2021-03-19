@@ -3,4 +3,4 @@
 I am a <b>Software Engineer</b>
 
 - 💬 Ask me about anything!
-- 📫 How to reach me: Twitter (rexlow0823)
+- 📫 How to reach me: Twitter 
