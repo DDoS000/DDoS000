@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @DDoS000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DDoS000&show_icons=true" alt="Github Stats" />
 
-<!---
-DDoS000/DDoS000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a <b>Software Engineer</b>
+
+- 💬 Ask me about anything!
+- 📫 How to reach me: Twitter (rexlow0823)
